@@ -3,3 +3,4 @@ O software tem o objetivo de ser um suporte para uma biblioteca, ajudando a cata
 
 Jamilly Caiane Dos Santos Felix / 20201214010007
 Lucas Cauan Oliveira Trindade / 20201214010016
+Amanda Luciano da Costa / 20201214010021
