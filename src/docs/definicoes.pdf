@@ -1,0 +1,13 @@
+Documento de Projeto com as Definições
+
+INTRODUÇÃO
+
+    1.1 Descrição do Projeto
+
+        O Sistema de Gestão de Biblioteca é uma aplicação desenvolvida em JavaScript que visa facilitar a administração e o controle eficiente dos recursos em uma biblioteca. Este projeto foi concebido para atender às necessidades de bibliotecas, permitindo o gerenciamento de livros, incluindo operações como cadastro, pesquisa, edição, exclusão, além de fornecer uma interface segura e controlada por autenticação.
+
+    1.2 Objetivo do projeto
+        O objetivo principal do projeto é oferecer uma solução eficaz para a gestão de bibliotecas, automatizando processos manuais e melhorando a eficiência na organização e acesso às informações. O sistema busca proporcionar uma experiência amigável para usuários, como bibliotecários e administradores, tornando a administração do acervo bibliográfico mais eficiente.
+
+    1.3 Público Alvo
+        O público-alvo deste sistema inclui bibliotecários, administradores e outros profissionais envolvidos na gestão e administração de bibliotecas.
