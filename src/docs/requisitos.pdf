@@ -25,3 +25,38 @@ REQUISITOS FUNCIONAIS
             R14 O sistema deve fornecer um botão de logout.
             R15 Ao fazer logout, o usuário deve ser redirecionado para a página de login.
             R16 As funcionalidades de cadastrar, pesquisar, editar e deletar livros devem estar inacessíveis após o logout.
+
+
+REQUISITOS NÃO FUNCIONAIS
+
+        2.1 Desempenho:
+            R01 O sistema deve ser responsivo, proporcionando uma experiência de usuário ágil.
+            R02 O tempo de resposta para operações principais, como pesquisa, edição e exclusão, não deve exceder um limite predeterminado, mesmo com um grande volume de dados.
+        2.2 Segurança:
+            R03 As informações do usuário, incluindo dados de login e senhas, devem ser armazenadas de forma segura.
+            R04 O acesso às funcionalidades do sistema deve ser protegido contra acessos não autorizados.
+            R05 Qualquer comunicação entre o cliente e o servidor deve ser criptografada.
+        2.3 Escalabilidade:
+            R06 O sistema deve ser projetado para lidar com um aumento gradual no número de usuários e de dados.
+            R07 A arquitetura deve ser escalável para acomodar futuras expansões sem comprometer o desempenho.
+        2.4 Compatibilidade:
+            R08 O sistema deve ser compatível com diferentes navegadores web, garantindo uma experiência consistente para os usuários.
+        2.3 Manutenção:
+            R09 O código-fonte deve ser bem documentado, seguindo as melhores práticas de codificação.
+            R10 Deve ser fácil realizar manutenções e atualizações no sistema, minimizando o impacto em outras partes do código.
+        2.4 Usabilidade:
+            R11 A interface do usuário deve ser intuitiva, facilitando o uso por parte de usuários com diferentes níveis de habilidade.
+            R12 O design deve ser responsivo e adaptável para diferentes tamanhos de tela.
+        2.5 Disponibilidade:
+            R13 O sistema deve ter uma alta taxa de disponibilidade, minimizando períodos de inatividade planejados e não planejados.
+            R14 As operações críticas, como login, cadastro e edição, devem estar disponíveis a maior parte do tempo.
+        2.6 Backup e Recuperação:
+            R15 Deve haver um sistema de backup regular para os dados do sistema.
+            R16 Em caso de falhas, o sistema deve ser capaz de se recuperar rapidamente sem perda significativa de dados.
+        2.7 Padrões e Conformidade:
+            R17 O sistema deve seguir padrões de codificação e práticas recomendadas para garantir a qualidade do código.
+            R18 Deve estar em conformidade com as regulamentações de privacidade e segurança relevantes.
+        2.8 Rastreabilidade:
+            R19 Deve ser possível rastrear e auditar atividades no sistema, incluindo operações de cadastro, edição e exclusão de livros.
+
+
