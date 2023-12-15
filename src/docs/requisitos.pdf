@@ -1,0 +1,27 @@
+Documento de Requisitos de Software
+
+REQUISITOS FUNCIONAIS
+
+
+        1.1 Requisitos Cadastro de Livro:
+            R01 O sistema deve permitir o cadastro de novos livros.
+            R02 Os detalhes do livro incluem título, autor, ISBN e situação.
+            R03 O ISBN (International Standard Book Number) deve ser único para cada livro.
+            R04 O cadastro deve ser acessível apenas após o login.
+        1.2 Requisitos de Pesquisa de Livro:
+            R05 O usuário logado deve ser capaz de pesquisar livros por título, autor ou ISBN.
+            R06 Os resultados da pesquisa devem exibir informações relevantes dos livros encontrados.
+        1.3 Requisitos de Edição de Livro:
+            R07 O sistema deve possibilitar a edição dos detalhes de um livro existente.
+            R08 O usuário pode modificar título, autor, ISBN e situação.
+        1.4 Requisitos de Exclusão de Livro:
+            R09 Deve ser possível excluir um livro do sistema.
+            R10 A exclusão pode ser feita através da pesquisa prévia do livro desejado.
+        1.5 Requisitos Login:
+            R11 O sistema deve ter uma página de login.
+            R12 O login requer um nome de usuário (ou e-mail) e uma senha.
+            R13 A autenticação deve ser validada para garantir que apenas usuários autorizados acessem as funcionalidades do sistema.
+        1.6 Requisitos Logout:
+            R14 O sistema deve fornecer um botão de logout.
+            R15 Ao fazer logout, o usuário deve ser redirecionado para a página de login.
+            R16 As funcionalidades de cadastrar, pesquisar, editar e deletar livros devem estar inacessíveis após o logout.
