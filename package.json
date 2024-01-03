@@ -1,0 +1,16 @@
+{
+  "name": "projetofinal-2",
+  "version": "1.0.0",
+  "description": "O software tem o objetivo de ser um suporte para uma biblioteca, ajudando a catalogar antigos e novos livros e auxiliando os funcionários a saber a situação de cada livro. O software tem as funções de cadastrar, editar, pesquisar e excluir.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "pg": "^8.11.3"
+  }
+}
