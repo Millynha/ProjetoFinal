@@ -4,19 +4,21 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CRUD de Livros</title>
+    <title>SDB - Sistema de Biblioteca</title>
     <!-- Adiciona o link para Font Awesome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <h1>CRUD de Livros</h1>
+    <h1>SDB - Sistema de Biblioteca</h1>
 
     <!-- Adiciona a barra de pesquisa com o ícone de lupa -->
     <div id="searchBar">
         <button type="button" onclick="searchBooks()">Pesquisar</button>
         <i class="fas fa-search search-icon" onclick="searchBooks()"></i>
     </div>
+
+    <button id="logoutButton" onclick="logout()">Logout</button>
 
     
     <form id="bookForm">

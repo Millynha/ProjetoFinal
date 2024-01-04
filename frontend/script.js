@@ -136,5 +136,13 @@ async function searchBooks() {
     }
 }
 
+function logout() {
+    
+    const confirmLogout = window.confirm('Tem certeza de que deseja fazer logout?');
+    
+    if (confirmLogout) {
+        window.location.href = 'login.html';
+    }
+}
 
 fetchAndDisplayBooks();
