@@ -11,4 +11,5 @@ Lucas Cauan Oliveira Trindade / 20201214010016 - <a href="https://github.com/luk
 Amanda Luciano da Costa / 20201214010021 - <a href="https://github.com/Amandinha1204">Amandinha1204</a> <br/>
 Ana Paula do Nascimento / 20201214010009 - <a href="https://github.com/annapaullaaa">annapaullaaa</a>
 
-![Alt text](image.png)
+
+
